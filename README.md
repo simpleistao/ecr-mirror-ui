@@ -22,7 +22,7 @@ A modern, premium web interface for managing the mirroring of Container Images a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ecr-mirror-ui.git
+git clone https://github.com/simpleistao/ecr-mirror-ui.git
 
 # Install dependencies
 npm install
